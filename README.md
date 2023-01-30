@@ -16,5 +16,5 @@ I'm a Software Engineer, with a major interest in frontend engineering, i love t
 
 ---
 
-| | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vader-js&langs_count=8&layout=compact&hide_border=true" alt="vader's GitHub stats" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=vader-js&show_icons=true&include_all_commits=true&hide_border=true" alt="vader's GitHub stats" />| <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vader-js&langs_count=8&layout=compact&hide_border=true" alt="vader's GitHub stats" /> |
 | ------------- | ------------- |
