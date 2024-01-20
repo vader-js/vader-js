@@ -11,7 +11,7 @@ I'm a Software Engineer, with a major interest in frontend engineering, I love t
 - 💡 Fun fact: I studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I currently make use of JavaScript, Reactjs, and Vuejs.
 - 😊 I’m looking for help with open-source projects and hackathons.
-- 💼 Job interests: Software Engineer, FrontEnd Engineer, or UI Engineer (Junior level).
+- 💼 Job interests: Software Engineer, FrontEnd Engineer, or UI Engineer.
 - 📫 You can contact me by emailing coder6lvck@gmail.com.
 
 ---
