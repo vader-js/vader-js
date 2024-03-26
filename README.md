@@ -12,7 +12,7 @@ I'm a Software Engineer, with a major interest in frontend engineering, I love t
 - 🌱 I currently make use of JavaScript, Reactjs, and Vuejs.
 - 😊 I’m looking for help with open-source projects and hackathons.
 - 💼 Job interests: Software Engineer, FrontEnd Engineer, or UI Engineer.
-- 📫 You can contact me by emailing coder6lvck@gmail.com.
+- 📫 You can contact me by emailing coder6lvck@gmail.com; vaderayomide@gmail.com.
 
 ---
 
