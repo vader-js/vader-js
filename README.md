@@ -62,7 +62,7 @@ This work has strengthened my attention to detail, consistency, and ability to a
 Here are a few examples of what I work on (see pinned repositories):
 
 - ![Chartter App]("https://chatter-app-theta.vercel.app/") – A multi-functional CRUD platform for authors and readers  
-- **SQL Analytics Projects** – Query-driven insights using real-world datasets  
+- ![Quality Dashboard](https://datastudio.google.com/reporting/3522ccd2-67dc-4c5d-ac40-69bc59678982) – Data-driven insights visualization using real-world datasets  
 - [![Google Sheet Finance Tracker](assets/dashboard-image.png)](https://docs.google.com/spreadsheets/d/1RemWGJ9dkYvhJe7IO3Zoum6kBiM7-F8PRvdRR15l5Bo/template/preview) – Advanced formulas for automated tracking
 
 
