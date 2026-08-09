@@ -7,7 +7,7 @@
 I’m a **Software Engineer** with a strong foundation in **frontend development** and a growing focus on **data analysis and evaluation**. I enjoy building user-facing applications, working with structured data, and translating complex problems into clear, actionable insights.
 
 ---
-
+<!--
 ## 💻 Software Engineering
 
 I specialize in building clean, scalable, and user-friendly web applications.
@@ -23,7 +23,7 @@ I specialize in building clean, scalable, and user-friendly web applications.
 - Performance and usability  
 - Writing maintainable, well-structured code  
 - Debugging and troubleshooting complex frontend issues  
-
+  -->
 ---
 
 ## 📊 Data Analysis & Evaluation
@@ -61,7 +61,7 @@ This work has strengthened my attention to detail, consistency, and ability to a
 
 Here are a few examples of what I work on (see pinned repositories):
 
-- [![Chartter App](assets/dashboard-image.png)](https://chatter-app-theta.vercel.app/) – A multi-functional CRUD platform for authors and readers  
+- [![Covid Global Report](assets/dashboard-image.png)](https://datastudio.google.com/reporting/ceb51df4-d17d-40f1-a60a-2244f7005d86) – A global report on covid infection, death rate etc.
 - [![Quality Dashboard](assets/dashboard-image.png)](https://datastudio.google.com/reporting/3522ccd2-67dc-4c5d-ac40-69bc59678982) – Data-driven insights visualization using real-world datasets  
 - [![Google Sheet Finance Tracker](assets/dashboard-image.png)](https://docs.google.com/spreadsheets/d/1RemWGJ9dkYvhJe7IO3Zoum6kBiM7-F8PRvdRR15l5Bo/template/preview) – Advanced formulas for automated tracking
 
@@ -80,8 +80,8 @@ Here are a few examples of what I work on (see pinned repositories):
 ## 🎯 What I’m Looking For
 
 I’m interested in roles that involve:
-- Software engineering with a data-driven mindset  
 - Data analysis and evaluation  
+- Software engineering with a data-driven mindset  
 - AI/ML data quality, safety, or analytics  
 - Consulting or problem-solving focused environments  
 
