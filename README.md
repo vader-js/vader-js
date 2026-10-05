@@ -61,6 +61,8 @@ This work has strengthened my attention to detail, consistency, and ability to a
 
 Here are a few examples of what I work on (see pinned repositories):
 
+- [Sales and Customer Analysis with SQL & BigQuery](https://github.com/vader-js/sales-customer-analysis-bigquery) – Customer segmentation, sales aggregation, recency, and spending metrics using CTEs and GoogleSQL.
+
 - [![Covid Global Report](assets/dashboard-image.png)](https://datastudio.google.com/reporting/ceb51df4-d17d-40f1-a60a-2244f7005d86) – A global report on covid infection, death rate etc.
 - [![Quality Dashboard](assets/dashboard-image.png)](https://datastudio.google.com/reporting/3522ccd2-67dc-4c5d-ac40-69bc59678982) – Data-driven insights visualization using real-world datasets  
 - [![Google Sheet Finance Tracker](assets/dashboard-image.png)](https://docs.google.com/spreadsheets/d/1RemWGJ9dkYvhJe7IO3Zoum6kBiM7-F8PRvdRR15l5Bo/template/preview) – Advanced formulas for automated tracking
