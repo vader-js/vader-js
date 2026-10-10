@@ -32,6 +32,8 @@ Alongside software engineering, I work extensively with data—especially in **a
 
 ### Skills & Tools
 - SQL (aggregations, subqueries, CUBE, ROLLUP)  
+- Google BigQuery (GoogleSQL and reporting views)  
+- Power BI (interactive dashboards and product performance visualization)  
 - Google Sheets (ARRAYFORMULA, SCAN, BYROW, dashboards)  
 - Python (Pandas – exploratory analysis)  
 - Data annotation & model evaluation  
@@ -61,7 +63,15 @@ This work has strengthened my attention to detail, consistency, and ability to a
 
 Here are a few examples of what I work on (see pinned repositories):
 
-- [Sales and Customer Analysis with SQL & BigQuery](https://github.com/vader-js/sales-customer-analysis-bigquery) – Customer segmentation, sales aggregation, recency, and spending metrics using CTEs and GoogleSQL.
+### Product Performance Dashboard — Power BI, SQL & BigQuery
+
+A product performance dashboard showing sales by category, top-selling products, customer reach, and last order dates, with Category and Product Segment filters. The overview displays approximately **29M in sales across 130 products**. The project also includes SQL reporting views for product analysis and customer segmentation.
+
+[![Product Performance dashboard](https://raw.githubusercontent.com/vader-js/sales-customer-analysis-bigquery/main/product-performance.png)](https://github.com/vader-js/sales-customer-analysis-bigquery#product-performance-dashboard)
+
+[Explore the project and download the Power BI report](https://github.com/vader-js/sales-customer-analysis-bigquery#product-performance-dashboard)
+
+### Other Projects
 
 - [![Covid Global Report](assets/dashboard-image.png)](https://datastudio.google.com/reporting/ceb51df4-d17d-40f1-a60a-2244f7005d86) – A global report on covid infection, death rate etc.
 - [![Quality Dashboard](assets/dashboard-image.png)](https://datastudio.google.com/reporting/3522ccd2-67dc-4c5d-ac40-69bc59678982) – Data-driven insights visualization using real-world datasets  
